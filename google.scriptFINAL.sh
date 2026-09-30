@@ -17,7 +17,7 @@ firefox "$URL1"
 sleep 2
 firefox "$URL2"
  echo "Well Done"
-
+#we need to confirm update of local to web & web to local
 ~                                                                                                                                                     
 ~                                                                              
 ~                                                                              
