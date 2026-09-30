@@ -16,6 +16,7 @@ URL2="https://www.google.com/search?q=$encoded2"
 firefox "$URL1"
 sleep 2
 firefox "$URL2"
+ echo ("Well Done")
 
 ~                                                                                                                                                     
 ~                                                                              
